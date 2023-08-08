@@ -26,11 +26,12 @@ O curso de "Crie sites do zero com HTML5 & CSS3",  ministrado pelo professor Jam
 
 ## 🚀 Tecnologias
 
-Neste curso foi utilizada a seguinte tecnologia:
+Neste curso foram utilizadas as seguintes tecnologias:
 
+<div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
+</div>
 <br>
 
 
